@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Python, Analise de Dados
 - 🌱 Graduando Ciencias da Computação, especificamente Data Science/Machine Learning
-- 📫 Contae-me no email: luquinhasfreitas7@yahoo.com.br
+- 📫 Contate-me no email: luquinhasfreitas7@yahoo.com.br
 
 
 <div align="center">
