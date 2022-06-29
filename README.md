@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Rodrigues 👋
 
 - 🔭 Hoje trabalho com Python, Analise de Dados
-- 🌱 Graduando Ciencias da Computação, especificamente Data Science/Machine Learning
+- 🌱 Graduando Ciencias da Computação, estudando especificamente Data Science/Machine Learning
 - 📫 Contate-me no email: luquinhasfreitas7@yahoo.com.br
 
 
